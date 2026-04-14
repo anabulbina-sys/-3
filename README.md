@@ -13,3 +13,4 @@
 Метод count() в Python - https://sky.pro/wiki/python/metod-count-v-python-podschet-kolichestva-vhozhdenij-elementa/
 Однострочники Python - https://wiki.merionet.ru/articles/odnostrocniki-python-kotorye-prigodiatsia-dlia-reseniia-sablonnyx-zadac
 Самоучитель по Python для начинающих - https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-13-rekursivnye-funkcii-2023-01-23
+Количество элементов в списке Python с условиями или критериями - https://pythonru.com/primery/kolichestvo-elementov-v-spiske-python 
